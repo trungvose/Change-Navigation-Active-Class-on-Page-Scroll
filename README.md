@@ -8,7 +8,7 @@ Its purpose is to improve the user experience on your website and make it easier
 This template I am using is based on what I have already created for [Shrinking Navigation Bar When Scrolling Down - Bootstrap 3 Navigation & jQuery](https://github.com/trungk18/Resizing-Header-On-Scroll)
 
 ####HTML
-We are also using .navbar-fixed-top of Bootstrap to make at stick to the top contains 3 links
+We are also using .navbar-fixed-top of Bootstrap to make it stick to the top contains 3 links
 
 ```html
         <ul class="nav navbar-nav navbar-right">
