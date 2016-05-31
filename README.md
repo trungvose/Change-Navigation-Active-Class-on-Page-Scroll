@@ -60,9 +60,9 @@ We will leave all sections blank and will make them 100% browser height using CS
         }
 ```
 
-Finally, look at simple jQuery code. What it basically do is iterated through all <section> tag when scrolling, check the current position by scrollTop function and compare with <section> position.
+Finally, look at simple jQuery code. What it basically do is iterated through all section when scrolling, check the current position by scrollTop function and compare with <section> position.
 
-If the condition is matched, just added class .active to <li> tag. 
+If the condition is matched, just added class .active to li tag. 
 
 You can change the scroll speed by editing "300" on animate function if you wish to change how fast the page is scrolling when a link from the navigation is clicked.
 
