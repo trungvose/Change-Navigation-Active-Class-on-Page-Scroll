@@ -1,5 +1,5 @@
 ###Change Navigation Active Class on Page Scroll with Bootstrap 3 Navigation & jQuery
-Demo: http://trungk18.github.io/demo/change-navigation-active-class-on-page-scroll.html
+**Demo**: http://trungk18.github.io/demo/change-navigation-active-class-on-page-scroll.html
 
 In this template, I will show you how to create an navigation automatically updating targets based on scroll position. It is similar to [Bootstrap ScrollSpy](http://getbootstrap.com/javascript/#scrollspy)
 
