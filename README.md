@@ -1,4 +1,4 @@
-###Change Navigation Active Class on Page Scroll with Bootstrap 3 Navigation & jQuery
+### Change Navigation Active Class on Page Scroll with Bootstrap 3 Navigation & jQuery
 **Demo**: http://trungk18.github.io/Change-Navigation-Active-Class-on-Page-Scroll/
 
 In this template, I will show you how to create an navigation automatically updating targets based on scroll position. It is similar to [Bootstrap ScrollSpy](http://getbootstrap.com/javascript/#scrollspy)
@@ -7,7 +7,7 @@ Its purpose is to improve the user experience on your website and make it easier
 
 The project structure is based on what I have already created for [Shrinking Navigation Bar When Scrolling Down - Bootstrap 3 Navigation & jQuery](https://github.com/trungk18/Resizing-Header-On-Scroll)
 
-####HTML
+#### HTML
 We are also using .navbar-fixed-top of Bootstrap to make it stick to the top contains 3 links
 
 ```html
@@ -108,6 +108,6 @@ You can change the scroll speed by editing "300" on animate function if you wish
     });
 ```
 
-####Conclusion
-Nowadays it is not really hard to search for component we need to use in our front-end project, but the most important thing is you can understand how it’s worked and you can easily implement this animated resizing header into your next project. 
+#### Conclusion
+Nowadays it is not really hard to search for component we need to use in our front-end project, but the most important thing is you can understand how itâ€™s worked and you can easily implement this animated resizing header into your next project.Â 
 Thanks for checking it out and view the demo, feel free to fork and fix the source code then pull back to me.
